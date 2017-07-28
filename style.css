@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    font-family: calibri;
+    color: gray;
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+span{
+    color: red;
+}
+p{
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+}
+canvas{
+    background-color: blueviolet;
+}
